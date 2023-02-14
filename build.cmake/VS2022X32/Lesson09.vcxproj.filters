@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\OpenGL\NeHe_Lesson09-master\src\Lesson09.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\OpenGL\NeHe_Lesson09-master\CMAKELists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\src\OpenGL\NeHe_Lesson09-master\src\Lesson09.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F6092B6B-7441-37A5-A97F-E4E9998294C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

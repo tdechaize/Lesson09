@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_68267d1309a1af8e8297ef4c3efbcdba" xml:lang="fr">
+<title>R√©pertoire de r√©f√©rence de src</title>
+<indexterm><primary>R√©pertoire de r√©f√©rence de src</primary></indexterm>
+<simplesect>
+    <title>Fichiers    </title>
+        <itemizedlist>
+            <listitem><para>fichier <link linkend="__lesson09_8c">Lesson09.c</link></para>
+
+<para>Ouvre une simple fenÍtre Windows et dessine des Ètoiles scintillantes qui sont en rotation sous forme d&apos;une spirale. </para>
+</listitem>
+            <listitem><para>fichier <link linkend="_resource_8h">resource.h</link></para>
+
+<para>Les dÈfinitions utilisÈes par le programme et les ressources. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

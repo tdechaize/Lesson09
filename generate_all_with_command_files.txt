@@ -1,0 +1,831 @@
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Directory del'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"Directory del'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  	: Lesson09" 
+"Nom de l'application  	: Lesson09"
+
+C:\src\OpenGL\NeHe_Lesson09-master>set mydate=14/02/2023 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set mytime=17:38:25,04 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set DAY=14 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set MONTH=02 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set YEAR=2023 
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo Beginning of generate_all_with_command_files.bat, current time is 14/02/2023:17:38:25,04 
+Beginning of generate_all_with_command_files.bat, current time is 14/02/2023:17:38:25,04
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Borland C/C++ 5.5 -> GenÃ©ration windows de l'application en mode : Debug"
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+src\Lesson09.c:
+Warning W8065 src\Lesson09.c 275: Call to function 'LoadGLTextures' with no prototype in function InitGL
+Warning W8071 src\Lesson09.c 326: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 326: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 326: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 336: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 336: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 336: Conversion may lose significant digits in function DrawGLScene
+Warning W8060 src\Lesson09.c 492: Possibly incorrect assignment in function CreateGLWindow
+Warning W8071 src\Lesson09.c 511: Conversion may lose significant digits in function CreateGLWindow
+Warning W8060 src\Lesson09.c 513: Possibly incorrect assignment in function CreateGLWindow
+Warning W8060 src\Lesson09.c 534: Possibly incorrect assignment in function CreateGLWindow
+Borland Resource Compiler  Version 5.40
+Copyright (c) 1990, 1999 Inprise Corporation.  All rights reserved.
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Borland C/C++ 5.5 -> GenÃ©ration windows de l'application en mode : Release"
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+src\Lesson09.c:
+Warning W8065 src\Lesson09.c 275: Call to function 'LoadGLTextures' with no prototype in function InitGL
+Warning W8071 src\Lesson09.c 326: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 326: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 326: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 336: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 336: Conversion may lose significant digits in function DrawGLScene
+Warning W8071 src\Lesson09.c 336: Conversion may lose significant digits in function DrawGLScene
+Warning W8060 src\Lesson09.c 492: Possibly incorrect assignment in function CreateGLWindow
+Warning W8071 src\Lesson09.c 511: Conversion may lose significant digits in function CreateGLWindow
+Warning W8060 src\Lesson09.c 513: Possibly incorrect assignment in function CreateGLWindow
+Warning W8060 src\Lesson09.c 534: Possibly incorrect assignment in function CreateGLWindow
+Borland Resource Compiler  Version 5.40
+Copyright (c) 1990, 1999 Inprise Corporation.  All rights reserved.
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"GCC 32b de la version Mingw Officielle -> GenÃ©ration windows de l'application en mode : Debug"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"GCC 32b de la version Mingw Officielle -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Red Panda DEVCPP -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Red Panda DEVCPP -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b Mingw64 IDE CB -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b Mingw64 IDE CB -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 32b inclus dans CYGWIN64 -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 32b inclus dans CYGWIN64 -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b inclus dans CYGWIN64 -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b inclus dans CYGWIN64 -> GenÃ©ration windows de l'application en mode : Release"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"GCC 32b Mingw32 packagÃ© Winlibs -> GenÃ©ration windows de l'application en mode : Debug"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"GCC 32b Mingw32 packagÃ© Winlibs -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b Mingw64 packagÃ© Winlibs -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b Mingw64 packagÃ© Winlibs -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 32b Mingw32 packagÃ© MSYS2 -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 32b Mingw32 packagÃ© MSYS2 -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b Mingw64 packagÃ© MSYS2 -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b Mingw64 packagÃ© MSYS2 -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 32b TDMW32 -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 32b TDMW32 -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b TDMW64 -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"GCC 64b TDMW64 -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Visual C/C++ 32 bits (VS2022) -> GenÃ©ration windows de l'application en mode : Debug"
+Lesson09.c
+Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Visual C/C++ 32 bits (VS2022) -> GenÃ©ration windows de l'application en mode : Release"
+Lesson09.c
+Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Visual C/C++ 64 bits (VS2022) -> GenÃ©ration windows de l'application en mode : Debug"
+Lesson09.c
+Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Visual C/C++ 64 bits (VS2022) -> GenÃ©ration windows de l'application en mode : Release"
+Lesson09.c
+Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (adossÃ© Ã  VS2022 32 bits) -> GenÃ©ration windows de l'application en mode : Debug"
+LINK : warning LNK4044: option '/-pdb=' non reconnueÿ; ignor‚e
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (adossÃ© Ã  VS2022 32 bits) -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (adossÃ© Ã  VS2022 64 bits) -> GenÃ©ration windows de l'application en mode : Debug"
+LINK : warning LNK4044: option '/-pdb=' non reconnueÿ; ignor‚e
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (adossÃ© Ã  VS2022 64 bits) -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW32 packagÃ© Winlibs) -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW32 packagÃ© Winlibs) -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW64 packagÃ© Winlibs) -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW64 packagÃ© Winlibs) -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW32 packagÃ© MSYS2) -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW32 packagÃ© MSYS2) -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW64 packagÃ© MSYS2) -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"CLANG (MingW64 packagÃ© MSYS2) -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Digital Mars Compiler C/C++ v8.57 -> GenÃ©ration windows de l'application en mode : Debug"
+bool NeHeLoadBitmap(LPTSTR szFileName, GLuint *texid)					// Creates Texture From A Bitmap File
+                  ^
+src\Lesson09.c(187) : Error: missing ',' between declaration of 'bool' and 'NeHeLoadBitmap'
+	glGenTextures(1, &texid[0]);											// Create The Texture
+	              ^
+src\Lesson09.c(192) : Error: ')' expected to close function parameter list with
+	hBMP=(HBITMAP)LoadImage(GetModuleHandle(NULL), szFileName, IMAGE_BITMAP, 0, 0, LR_CREATEDIBSECTION | LR_LOADFROMFILE );
+	                                                         ^
+src\Lesson09.c(193) : Error: undefined identifier 'szFileName'
+	if (!hBMP)															// Does The Bitmap Exist?
+	 ^
+src\Lesson09.c(195) : Error: '=', ';' or ',' expected
+	GetObject(hBMP, sizeof(BMP), &BMP);									// Get The Object
+	                     ^
+src\Lesson09.c(198) : Error: identifier expected
+Fatal error: too many errors
+--- errorlevel 1
+OPTLINK (R) for Win32  Release 8.00.16
+Copyright (C) Digital Mars 1989-2013  All rights reserved.
+http://www.digitalmars.com/ctg/optlink.html
+objDMC\Debug\Lesson09.obj
+ Error 2: File Not Found objDMC\Debug\Lesson09.obj
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"Digital Mars Compiler C/C++ v8.57 -> GenÃ©ration windows de l'application en mode : Release"
+bool NeHeLoadBitmap(LPTSTR szFileName, GLuint *texid)					// Creates Texture From A Bitmap File
+                  ^
+src\Lesson09.c(187) : Error: missing ',' between declaration of 'bool' and 'NeHeLoadBitmap'
+	glGenTextures(1, &texid[0]);											// Create The Texture
+	              ^
+src\Lesson09.c(192) : Error: ')' expected to close function parameter list with
+	hBMP=(HBITMAP)LoadImage(GetModuleHandle(NULL), szFileName, IMAGE_BITMAP, 0, 0, LR_CREATEDIBSECTION | LR_LOADFROMFILE );
+	                                                         ^
+src\Lesson09.c(193) : Error: undefined identifier 'szFileName'
+	if (!hBMP)															// Does The Bitmap Exist?
+	 ^
+src\Lesson09.c(195) : Error: '=', ';' or ',' expected
+	GetObject(hBMP, sizeof(BMP), &BMP);									// Get The Object
+	                     ^
+src\Lesson09.c(198) : Error: identifier expected
+Fatal error: too many errors
+--- errorlevel 1
+OPTLINK (R) for Win32  Release 8.00.16
+Copyright (C) Digital Mars 1989-2013  All rights reserved.
+http://www.digitalmars.com/ctg/optlink.html
+objDMC\Release\Lesson09.obj
+ Error 2: File Not Found objDMC\Release\Lesson09.obj
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"LCC32 -> GenÃ©ration windows de l'application en mode : Debug"
+0 errors, 1 warning
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  				: Lesson09"
+"LCC32 -> GenÃ©ration windows de l'application en mode : Release"
+0 errors, 1 warning
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"LCC64 -> GenÃ©ration windows de l'application en mode : Debug"
+0 errors, 1 warning
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"LCC64 -> GenÃ©ration windows de l'application en mode : Release"
+0 errors, 1 warning
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  			: Lesson09"
+"Pelles C 32bits -> GenÃ©ration windows de l'application en mode : Debug"
+Writing debug information
+Compacting debug information
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  			: Lesson09"
+"Pelles C 32bits -> GenÃ©ration windows de l'application en mode : Release"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"Pelles C 64bits -> GenÃ©ration windows de l'application en mode : Debug"
+Writing debug information
+Compacting debug information
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master" 
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo "Nom de l'application  				: Lesson09" 
+"Nom de l'application  				: Lesson09"
+"Pelles C 64bits -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  			: Lesson09"
+"Open Watcom C/C++ 32bits -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  			: Lesson09"
+"Open Watcom C/C++ 32bits -> GenÃ©ration windows de l'application en mode : Release"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  			: Lesson09"
+"Open Watcom C/C++ 64bits -> GenÃ©ration windows de l'application en mode : Debug"
+"RÃ©pertoire principal de l'application : C:\src\OpenGL\NeHe_Lesson09-master"
+"Nom de l'application  			: Lesson09"
+"Open Watcom C/C++ 64bits -> GenÃ©ration windows de l'application en mode : Release"
+
+C:\src\OpenGL\NeHe_Lesson09-master>"C:\Program Files\Python311\python.exe" ..\..\tools\Size_exec.py Lesson09 
+Date dernière modification du source .\src\Lesson09.c : Tue Sep 20 18:30:16 2022
+Date dernière modification du source .\src\Lesson09.rc : Sat Sep 17 16:49:41 2022
+Date dernière modification du source .\src\resource.h : Thu Sep  2 15:21:39 2021
+        Tableau récapitulatif de la taille des exécutables générés pour le projet : Lesson09
+  Debug Borland C/C++ :       60.5 KB et sa date dernière modification Tue Feb 14 17:38:25 2023 ->.\binBC55\Debug\Lesson09.exe.
+  Release Borland C/C++ :     60.5 KB et sa date dernière modification Tue Feb 14 17:38:25 2023 ->.\binBC55\Release\Lesson09.exe.
+  Debug CLANG MSYS W32 :     144.6 KB et sa date dernière modification Tue Feb 14 17:39:17 2023 ->.\binCLANGMW32\Debug\Lesson09.exe.
+  Release CLANG MSYS W32 :    30.5 KB et sa date dernière modification Tue Feb 14 17:39:18 2023 ->.\binCLANGMW32\Release\Lesson09.exe.
+  Debug CLANG MSYS W64 :     160.4 KB et sa date dernière modification Tue Feb 14 17:39:19 2023 ->.\binCLANGMW64\Debug\Lesson09.exe.
+  Release CLANG MSYS W64 :    32.0 KB et sa date dernière modification Tue Feb 14 17:39:20 2023 ->.\binCLANGMW64\Release\Lesson09.exe.
+  Debug CLANG Mingw32 :       90.4 KB et sa date dernière modification Tue Feb 14 17:39:11 2023 ->.\binCLANGW32\Debug\Lesson09.exe.
+  Release CLANG Mingw32 :     34.0 KB et sa date dernière modification Tue Feb 14 17:39:12 2023 ->.\binCLANGW32\Release\Lesson09.exe.
+  Debug CLANG Mingw64 :       96.7 KB et sa date dernière modification Tue Feb 14 17:39:14 2023 ->.\binCLANGW64\Debug\Lesson09.exe.
+  Release CLANG Mingw64 :     37.5 KB et sa date dernière modification Tue Feb 14 17:39:15 2023 ->.\binCLANGW64\Release\Lesson09.exe.
+  Debug CLANG VS2022 32 :     98.0 KB et sa date dernière modification Tue Feb 14 17:39:06 2023 ->.\binCLANGX32\Debug\Lesson09.exe.
+  Release CLANG VS2022 32 :   96.0 KB et sa date dernière modification Tue Feb 14 17:39:07 2023 ->.\binCLANGX32\Release\Lesson09.exe.
+  Debug CLANG VS2022 64 :    121.0 KB et sa date dernière modification Tue Feb 14 17:39:08 2023 ->.\binCLANGX64\Debug\Lesson09.exe.
+  Release CLANG VS2022 64 :  120.0 KB et sa date dernière modification Tue Feb 14 17:39:09 2023 ->.\binCLANGX64\Release\Lesson09.exe.
+  Debug Cygwin 32 :          152.0 KB et sa date dernière modification Tue Feb 14 17:38:34 2023 ->.\binCYGWIN32\Debug\Lesson09.exe.
+  Release Cygwin 32 :         30.0 KB et sa date dernière modification Tue Feb 14 17:38:36 2023 ->.\binCYGWIN32\Release\Lesson09.exe.
+  Debug Cygwin 64 :          170.8 KB et sa date dernière modification Tue Feb 14 17:38:38 2023 ->.\binCYGWIN64\Debug\Lesson09.exe.
+  Release Cygwin 64 :         33.5 KB et sa date dernière modification Tue Feb 14 17:38:41 2023 ->.\binCYGWIN64\Release\Lesson09.exe.
+  Debug Mingw64 CPP :         87.9 KB et sa date dernière modification Tue Feb 14 17:38:28 2023 ->.\binDevCpp\Debug\Lesson09.exe.
+  Release Mingw64 CPP :       31.0 KB et sa date dernière modification Tue Feb 14 17:38:30 2023 ->.\binDevCpp\Release\Lesson09.exe.
+  Debug DMC 32 :              40.0 KB et sa date dernière modification Tue Feb 14 17:37:24 2023 ->.\binDMC\Debug\Lesson09.exe.
+  Release DMC 32 :            40.0 KB et sa date dernière modification Tue Feb 14 17:37:24 2023 ->.\binDMC\Release\Lesson09.exe.
+  Debug lcc 32 :              56.6 KB et sa date dernière modification Tue Feb 14 17:39:21 2023 ->.\binlcc32\Debug\Lesson09.exe.
+  Release lcc 32 :            45.1 KB et sa date dernière modification Tue Feb 14 17:39:22 2023 ->.\binlcc32\Release\Lesson09.exe.
+  Debug lcc 64 :              55.0 KB et sa date dernière modification Tue Feb 14 17:39:22 2023 ->.\binlcc64\Debug\Lesson09.exe.
+  Release lcc 64 :            41.5 KB et sa date dernière modification Tue Feb 14 17:39:22 2023 ->.\binlcc64\Release\Lesson09.exe.
+  Debug Mingw32 officiel :    84.1 KB et sa date dernière modification Tue Feb 14 17:38:26 2023 ->.\binMingw32of\Debug\Lesson09.exe.
+  Release Mingw32 officiel :  39.5 KB et sa date dernière modification Tue Feb 14 17:38:27 2023 ->.\binMingw32of\Release\Lesson09.exe.
+  Debug Mingw32 WinLibs :     94.6 KB et sa date dernière modification Tue Feb 14 17:38:43 2023 ->.\binMingw32wl\Debug\Lesson09.exe.
+  Release Mingw32 WinLibs :   36.0 KB et sa date dernière modification Tue Feb 14 17:38:45 2023 ->.\binMingw32wl\Release\Lesson09.exe.
+  Debug Mingw64 WinLibs :    101.9 KB et sa date dernière modification Tue Feb 14 17:38:48 2023 ->.\binMingw64wl\Debug\Lesson09.exe.
+  Release Mingw64 WinLibs :   38.0 KB et sa date dernière modification Tue Feb 14 17:38:51 2023 ->.\binMingw64wl\Release\Lesson09.exe.
+  Debug Mingw64 CB :         146.3 KB et sa date dernière modification Tue Feb 14 17:38:31 2023 ->.\binMingw64CB\Debug\Lesson09.exe.
+  Release Mingw64 CB :        31.5 KB et sa date dernière modification Tue Feb 14 17:38:33 2023 ->.\binMingw64CB\Release\Lesson09.exe.
+  Debug Mingw32 MSYS2 :      149.7 KB et sa date dernière modification Tue Feb 14 17:38:53 2023 ->.\binMSYS2W32\Debug\Lesson09.exe.
+  Release Mingw32 MSYS2 :     34.5 KB et sa date dernière modification Tue Feb 14 17:38:54 2023 ->.\binMSYS2W32\Release\Lesson09.exe.
+  Debug Mingw64 MSYS2 :      165.6 KB et sa date dernière modification Tue Feb 14 17:38:56 2023 ->.\binMSYS2W64\Debug\Lesson09.exe.
+  Release Mingw64 MSYS2 :     33.0 KB et sa date dernière modification Tue Feb 14 17:38:58 2023 ->.\binMSYS2W64\Release\Lesson09.exe.
+  Debug OpenWatcom 32 :       55.3 KB et sa date dernière modification Tue Feb 14 17:39:26 2023 ->.\binOW32\Debug\Lesson09.exe.
+  Release OpenWatcom 32 :     33.0 KB et sa date dernière modification Tue Feb 14 17:39:26 2023 ->.\binOW32\Release\Lesson09.exe.
+  Debug OpenWatcom 64 :       55.3 KB et sa date dernière modification Tue Feb 14 17:39:27 2023 ->.\binOW64\Debug\Lesson09.exe.
+  Release OpenWatcom 64 :     33.0 KB et sa date dernière modification Tue Feb 14 17:39:27 2023 ->.\binOW64\Release\Lesson09.exe.
+  Debug Pelles C 32 :         64.0 KB et sa date dernière modification Tue Feb 14 17:39:23 2023 ->.\binPELLESC32\Debug\Lesson09.exe.
+  Release Pelles C 32 :       36.5 KB et sa date dernière modification Tue Feb 14 17:39:23 2023 ->.\binPELLESC32\Release\Lesson09.exe.
+  Debug Pelles C 64 :         70.5 KB et sa date dernière modification Tue Feb 14 17:39:24 2023 ->.\binPELLESC64\Debug\Lesson09.exe.
+  Release Pelles C 64 :       42.5 KB et sa date dernière modification Tue Feb 14 17:39:25 2023 ->.\binPELLESC64\Release\Lesson09.exe.
+  Debug TDM Mingw32 :         71.8 KB et sa date dernière modification Tue Feb 14 17:38:59 2023 ->.\binTDMW32\Debug\Lesson09.exe.
+  Release TDM Mingw32 :       39.5 KB et sa date dernière modification Tue Feb 14 17:39:00 2023 ->.\binTDMW32\Release\Lesson09.exe.
+  Debug TDM Mingw64 :        239.9 KB et sa date dernière modification Tue Feb 14 17:39:01 2023 ->.\binTDMW64\Debug\Lesson09.exe.
+  Release TDM Mingw64 :       78.5 KB et sa date dernière modification Tue Feb 14 17:39:03 2023 ->.\binTDMW64\Release\Lesson09.exe.
+  Debug VS 2022 32 :         494.5 KB et sa date dernière modification Tue Feb 14 17:39:04 2023 ->.\binVS2022X32\Debug\Lesson09.exe.
+  Release VS 2022 32 :        97.5 KB et sa date dernière modification Tue Feb 14 17:39:04 2023 ->.\binVS2022X32\Release\Lesson09.exe.
+  Debug VS 2022 64 :         642.5 KB et sa date dernière modification Tue Feb 14 17:39:05 2023 ->.\binVS2022X64\Debug\Lesson09.exe.
+  Release VS 2022 64 :       120.5 KB et sa date dernière modification Tue Feb 14 17:39:05 2023 ->.\binVS2022X64\Release\Lesson09.exe.
+
+C:\src\OpenGL\NeHe_Lesson09-master>"C:\Program Files\Python311\python.exe" ..\..\tools\Calc_checksums.py Lesson09 
+Tableau récapitulatif des différents checksums générés pour le projet : Lesson09
+Calcul des cheksums du fichier : .\binBC55\Debug\Lesson09.exe.
+Checksum CRC32  is 10bc77fa.
+Checksum MD5 is 0e22277125ab9be3119475283a75aaa0.
+Checksum SHA256 is fc975a89aa1e3f6f38f5919d2c1183fa3fca1d82e1dd3c175e31b5359a200134.
+Checksum SHA512 is b9abaca0ffb908f890403e25bff7f0f39afeeb01d7683f1210975ba429f4872c40269ca402fb6c291ee497c3234ce26c6ce47209935ef63a9817692c5b6824ce.
+Checksum RipeMD160 is 50bad5cbcdd42b83f49f53bcdd66dd8df950c3b0.
+Checksum BLAKE2B is eaa5abce808e506e86a1e8e62c5b6e91f727deb3679153dcae1b65dcdd46178294cbe98164b899622d5a33c1f487d2dec199f0079709f2d56a51a81c72e01666.
+Calcul des cheksums du fichier : .\binBC55\Release\Lesson09.exe.
+Checksum CRC32  is 10bc77fa.
+Checksum MD5 is 0e22277125ab9be3119475283a75aaa0.
+Checksum SHA256 is fc975a89aa1e3f6f38f5919d2c1183fa3fca1d82e1dd3c175e31b5359a200134.
+Checksum SHA512 is b9abaca0ffb908f890403e25bff7f0f39afeeb01d7683f1210975ba429f4872c40269ca402fb6c291ee497c3234ce26c6ce47209935ef63a9817692c5b6824ce.
+Checksum RipeMD160 is 50bad5cbcdd42b83f49f53bcdd66dd8df950c3b0.
+Checksum BLAKE2B is eaa5abce808e506e86a1e8e62c5b6e91f727deb3679153dcae1b65dcdd46178294cbe98164b899622d5a33c1f487d2dec199f0079709f2d56a51a81c72e01666.
+Calcul des cheksums du fichier : .\binCLANGMW32\Debug\Lesson09.exe.
+Checksum CRC32  is fe15cc57.
+Checksum MD5 is 385969ddefd8dbf7ed0bd7546c20e0d1.
+Checksum SHA256 is bdf57493d848dcbef2c03e7736fc930c19176a50f75aa30d449306edd57abf30.
+Checksum SHA512 is dbc1f7c1a5d58f6bfce5671fdc513371d8e2f64cd9ea1589c59abfe68e49a6ee74039101487857f655f5970a41fa82f8075c7f588be872fa9c3a0bc1867e1818.
+Checksum RipeMD160 is 4c4e2fd342e9871fc34d3f003f78333fbde4f692.
+Checksum BLAKE2B is 27ac810be3978866fbbd441466136c2615024ac168e65d9e58efc4d6b9e9188eddf17a53677e3901f071f0b7a70ea102037dd2003ed41d4e99982898547541d1.
+Calcul des cheksums du fichier : .\binCLANGMW32\Release\Lesson09.exe.
+Checksum CRC32  is 7d045d84.
+Checksum MD5 is 5947cc211c9317c47ecd361811db2cef.
+Checksum SHA256 is 13bb1c2893c1c9f260bce3f84c659540f364d8d6f9acb5f720408835f7ac60c4.
+Checksum SHA512 is 11b593dfb1d8e7996258804f35bac33a99a59b586d96ab2ee2d89e97d4486defedc744c73cb4fc4356edef60b9d6c4239ffb5745d533fa898bf31c23dc790897.
+Checksum RipeMD160 is af203bb44b9bb0222bc330027737e7c3a1b11130.
+Checksum BLAKE2B is a55e1ab432eb542a55d760a0d999c32494dc27480e2c894f3e68d0722783f7357843bad50aca4dc2c0fac88ea24085b06ac518ae99118b8e50bd9cd414d4eb0d.
+Calcul des cheksums du fichier : .\binCLANGMW64\Debug\Lesson09.exe.
+Checksum CRC32  is 4c9d8eb6.
+Checksum MD5 is 845b390de87b6bb5d3345e736425c3a2.
+Checksum SHA256 is 1e643cd4b463a0b5b9d096a473d3ee49f8381682f2b05102044f8a5b5f9039a3.
+Checksum SHA512 is f9ca32174263d4a3d76d3692f70ad3bca31f955d2a538350c44637965bc7b408a7f1f1412b2dbf3fad95a310fb9d3c1fba334118bb73edfb8077795c1224c7d4.
+Checksum RipeMD160 is e2bae3be6729b919fb4902d1f1c8f45874bc8694.
+Checksum BLAKE2B is 6797222484624ee1591bb5364a5e5daacb067361a02dffd69761d2f115c65594f037c6a62e1f49291227cc365ac4567e32e7fac20afd2612ee71eca96423b1c8.
+Calcul des cheksums du fichier : .\binCLANGMW64\Release\Lesson09.exe.
+Checksum CRC32  is 3b8b46c4.
+Checksum MD5 is 2e33c562e800f4c6d95f6431dbeb1510.
+Checksum SHA256 is 509350cfe1791476548153a34c6f4b44cd90d178d7aed6775f08a3e636da3bca.
+Checksum SHA512 is 5f66b702276b4cbed6c91476d9231bb313a2269bdd49de675dcf88dd4ae167b08e91832a9c5fafedfcb9a5fc31a20582fce87dd2069c4ea8cd996cffc3b27bdf.
+Checksum RipeMD160 is 60d5e80bd381e93f67844c35b29d92ed9aea40be.
+Checksum BLAKE2B is 6c1afa3a62d0a0581f2f959aaf94274757d0bbbb1352ddf16bcb1ab80cecda8546ced835892466cd70b06dbf5f1326c2b8e84e24828783fa02437838c5fbcf9f.
+Calcul des cheksums du fichier : .\binCLANGW32\Debug\Lesson09.exe.
+Checksum CRC32  is 67cfab91.
+Checksum MD5 is 362823d1a2b7a5d59d9ac259b279a57d.
+Checksum SHA256 is 852ebaee1a20277235434d81f7170fbd25edc790c0df99385b12d42803352876.
+Checksum SHA512 is 6eb9b501941cad77fa46d5a87a48f668c45cd7253a0b533b14b5575cfdab9eb1e709255504727f55b435ddcacd3a591098c7f45a0d48c315342622e3111f0d23.
+Checksum RipeMD160 is bf1f6f5374d7322035b31ee1a868589d45d78625.
+Checksum BLAKE2B is 26794f0609cab8b1f657b092b9cd0add6a64bd36bf143258b3b57e3e1562a1870e5d39d9186511aab467c8f064a7adae1f1cf8ba752361b3ccbedafbe5efaf0f.
+Calcul des cheksums du fichier : .\binCLANGW32\Release\Lesson09.exe.
+Checksum CRC32  is ab18538.
+Checksum MD5 is fb3654aa7c71d4d676b96debddc07d82.
+Checksum SHA256 is 03c7654f52cd2702e1bd98b45fe30a0f9faf1b70e79c9dd02ef1924997c547e7.
+Checksum SHA512 is 1e84071a485bf77b5e081c5e267e7bf2d20f2ba9f968dadadb0e2525cba478ad7a425b29468c108d27d9d7aed4c201825f5f62e71401b6ffe0b71045bf66ec96.
+Checksum RipeMD160 is 7e8b5be3756c0bebf06309513a62d4c626b9216c.
+Checksum BLAKE2B is 50defc7d28c9642636bda78d59dfdeda9c933040ec94aa460f7b3e7c09e3351a7e3c581ade82bcd8532d7df542440f964849c41f1a16ae4afa9a0e8a6eb0e014.
+Calcul des cheksums du fichier : .\binCLANGW64\Debug\Lesson09.exe.
+Checksum CRC32  is cd7eeb07.
+Checksum MD5 is 284cfda9f2bc8b8c07ae01b75e2bd83e.
+Checksum SHA256 is 09990b7be4dbd46c8d8f9b96abe4ce6c5393b2e152b5d95207d5e196befe3202.
+Checksum SHA512 is f8a9f933f3ae359dba79fc7df2b63857ae0414aee5b32be606af6a2472ad26111e7cf52776328b171c9a5b1cbcd45b49122f8b87b59a0b8d18772962123665fb.
+Checksum RipeMD160 is f793d159835a6fa18a842f2caad5780f57b0e8eb.
+Checksum BLAKE2B is 425fe14234492293d2f361d31b23996bd2b178e0e9e98996414b2d22c8042e03f94c0b0e7b60d9b7ad3f1e768ff3f9eaaad6ebbaa4d28a408d8048c4a9df507e.
+Calcul des cheksums du fichier : .\binCLANGW64\Release\Lesson09.exe.
+Checksum CRC32  is 48936f4a.
+Checksum MD5 is 881702eeaef17877ec336e15a62ff923.
+Checksum SHA256 is 60022684c3e322d076e7eb1650e78b1405f083cfb0f7a269255819c724a96ec2.
+Checksum SHA512 is 3f8924f41a6ba571e61db939d9c11a271ffa349fff97c082418dde01bda34b313f6bf614a730ff003e14423719ba213f2d3f2f7593371b22f39df08fdb24bc6b.
+Checksum RipeMD160 is 7405918d8244193f53b95f1183bfcbdc664d0051.
+Checksum BLAKE2B is 21dc28a6f202e167fab82bb1f866728274583b7ae98791966b247c417f4e06aca20f240ba01cf720229772069b32bc7cbf2a55d1fabb7897d1bfef71ca5dfd89.
+Calcul des cheksums du fichier : .\binCLANGX32\Debug\Lesson09.exe.
+Checksum CRC32  is f0d13c90.
+Checksum MD5 is 2fb76c40be8f5d1b8f9df80e6beb34bc.
+Checksum SHA256 is e30d5b918ef12a23163e72462a1105023c0f916896e0be3799fe2f517845eb20.
+Checksum SHA512 is 3c39aa8a1db87797c04c834f721ef8db2cfa311bf9e985253f593c51a20d80677480d0176a09c493f1558e6ca0bd4ead1f5938d633c9d4b8db764b035d7dae53.
+Checksum RipeMD160 is d8f73ffba69881868c09eae72d5733fd658ac372.
+Checksum BLAKE2B is cc9f8bc801f4f196dfcd85175b335786f6d39c5389c8572d621ff1f6b5ed5754b45c5475fb6c2e388077269f0bcd3de10de878f6501351a45992a52a78f36174.
+Calcul des cheksums du fichier : .\binCLANGX32\Release\Lesson09.exe.
+Checksum CRC32  is bfa533e9.
+Checksum MD5 is 7a044b8e0a0d5911f94a0ff090ebdac0.
+Checksum SHA256 is 2830da696561fb0678bd57b93329f47727db18a6650193af62b2e564dbc089ee.
+Checksum SHA512 is 287da213709aafb5b3783fce46a8d15da78b31af497813cc0da22951d39478fa9f0448191dd23e7b7567d9040a84b85ef6c579c4e2bb3cd044f009e9194bc370.
+Checksum RipeMD160 is 071da5f0a69fdb7927f07f89ceacb3a2cd5b9e92.
+Checksum BLAKE2B is a20c4f3146191141641d788b1b6ec7ff832beef8d37410edf7922e334e69e7dbe6275258d6c8bab49275de8527aedf74005fcaa5f3f433e98a2dd6e775bdd90b.
+Calcul des cheksums du fichier : .\binCLANGX64\Debug\Lesson09.exe.
+Checksum CRC32  is 8ab108ea.
+Checksum MD5 is f4c630a48c1507dc246d7e93c726026f.
+Checksum SHA256 is 769745e58ebb77a1c18d7f0ada08569da4be68d52387c1146a9d7c53a92abe62.
+Checksum SHA512 is 725a50fa384fcbe20fdc1ccfa9fd78ce7458d2172ab1cfe580b34e91a1469a6cad9f7ccf902254a8be965679dba1d549546a79aeaafbaf5913bb70535f321192.
+Checksum RipeMD160 is 7f4f77d3a8fea5e4db13533c5a7c8aa1e6f638d4.
+Checksum BLAKE2B is c4a570b39d1d8b9842e245be0864089db7ba8c2ca3dbfdff01b9998553159a93d6796881763c4186246a8e52ba338d99af28f34a88c6f673f6e7aeeaba935a0a.
+Calcul des cheksums du fichier : .\binCLANGX64\Release\Lesson09.exe.
+Checksum CRC32  is ec7c2357.
+Checksum MD5 is 88b90046eac583f7b7fcadd52d4b175a.
+Checksum SHA256 is 643b2d0e834dbdbbf055f8fe8806b16725d86a437de224c26eb0c9f6718d6dfe.
+Checksum SHA512 is 9027b1b8714a47b30c468cc8c5def1bc32cd54ac09f039538c870da0dd00e2c2d775a732da21e5dfcc687f15ab12540f2a5a258e064e04262bdac1e74dd5b6a4.
+Checksum RipeMD160 is 95873faefdec9c1161e8c58be2a5d5731f4fc577.
+Checksum BLAKE2B is c401917a5693b06af72c1d16ff89efe9952cb26511cf57fc255b15a5180b4f0e283bd93d5a9de5044b106e4d5f35fcc89098b0d6845325aa796dfeecf5450f42.
+Calcul des cheksums du fichier : .\binCYGWIN32\Debug\Lesson09.exe.
+Checksum CRC32  is 8b1b2f01.
+Checksum MD5 is 51edbc77f160e54b51eeb2f00e8aee0a.
+Checksum SHA256 is a8e62f7ca24f5cebc3d1df2668d847c4e2a2cae7bcf9d45762c3ba7d7b3685a6.
+Checksum SHA512 is 6882f0724d645d299d17149468a5fb83834a894d1a255cefbcd4721460658753519e72a08e5f832586490c14613b26726d29dfca5474e8c432859a94300a3d28.
+Checksum RipeMD160 is e45e6e531620df79b119789cc10ad4f75bb5b518.
+Checksum BLAKE2B is 150fc34b5537b0c706e49049abcb72c86a5d7965d0227a0ae0d28f095b73268db363c8dedb587901f34de4b52c3300e9bf7b33fa825d1ba01d1f2c751e4baa33.
+Calcul des cheksums du fichier : .\binCYGWIN32\Release\Lesson09.exe.
+Checksum CRC32  is fc582e99.
+Checksum MD5 is 7ae8e2d99407217bf6b4e736dc361b36.
+Checksum SHA256 is 9c57d96460b214f1e29714929b3a22cc2daef381032e0d2aeb4111e3bf527962.
+Checksum SHA512 is a9b29f43075d5772e3b16704a64c45cf140b235fb088b4ffed26b422a04c908934bfc8c1cde7546347b4957b7c3008d3c4ecaca7145ea729fa3438d0d2e5602c.
+Checksum RipeMD160 is ba90b774fd971797373fb2bd3f1d19b40ea2e97c.
+Checksum BLAKE2B is a2aa1d2c92c6efb2bc6d8d700339ca011f8e71dca49fc7f789df49c88069a5439d8a3316c449a8f306688e31285ae77e8e00ee2aabc1ccb6c445f3b083c07e6d.
+Calcul des cheksums du fichier : .\binCYGWIN64\Debug\Lesson09.exe.
+Checksum CRC32  is 6cea4052.
+Checksum MD5 is 0974fea883e8eb1ccb266cb63ec46fee.
+Checksum SHA256 is e1395748cf047c42ab2d75159eb650ea5b822f77291257c769eb1eb8d9e2be87.
+Checksum SHA512 is 2977854f8843c512f65bfa4dbfafe22799a3821b8f6b17893d4cabd90dafacff1d91f0eb8373a349c0f557e36a31db2ce1cf2e917ca3301ff5a97aab00c8faa2.
+Checksum RipeMD160 is 8d798f29fc23a41a14dd73c78f7983cd7af3cd7e.
+Checksum BLAKE2B is fbc1fc859b878ff973b019e9f9d1851d796168cb8eb12bd92c0340b9f38c13b7c8e841a873a42f2c5dab6b3aaf5042080fb1f6fa7b7314cc98206174c2f75290.
+Calcul des cheksums du fichier : .\binCYGWIN64\Release\Lesson09.exe.
+Checksum CRC32  is 73735dec.
+Checksum MD5 is ced92790c43a5592205b55afaf6a290c.
+Checksum SHA256 is c5a9eb345d454391659a42f2e1382bdeb6c03357b3383fed8eb53776165a0f9e.
+Checksum SHA512 is 8b410706db389cb90183439c2c6303073702087620959eb68b53d057afdabd066daea25072019c9b68da9ecd2c8dfdef280ff14374d946cf6f2dfa94f8464014.
+Checksum RipeMD160 is 55c19b312e0f4515b3903538d5a0d3cde021e5aa.
+Checksum BLAKE2B is 6ebb71fad327cdaa20b4b4647866cd25b59330ce82ecc9c735bd9d9105075d3226745efdb7716eb69bedb9249e75656dd7ef4bc736d2e399fc134ef0b465fbc4.
+Calcul des cheksums du fichier : .\binDevCpp\Debug\Lesson09.exe.
+Checksum CRC32  is d0eab2b.
+Checksum MD5 is ae583c77715301aa8caa9891ec474deb.
+Checksum SHA256 is 1ed827a9b8d47e80db772470d00840a7470fcef8100a3fe745bd935c1a429a78.
+Checksum SHA512 is ef660ad55572864c2c967d4ad3fb872839918dd3412972bd2994dbc8132ed9afe23aac529380cc01a99a46482cb5e4a005d7c79fe1771201959d9cfbe216320e.
+Checksum RipeMD160 is 634852f9be9d43ff5d3c612f3db01206795aaa12.
+Checksum BLAKE2B is dd54f412404e343da6cf052f12a3ccc6f3119f6068c2a30bd07c66df92c48520cfeeefd050570f17eceb7bb7d62fbc5656bb142f71a31b56015667982976b488.
+Calcul des cheksums du fichier : .\binDevCpp\Release\Lesson09.exe.
+Checksum CRC32  is 5daf91b9.
+Checksum MD5 is 23abbb4a4b43a33d4bbc223d16d436bd.
+Checksum SHA256 is c48464f6bde2ef2b3ce13c0d891ad75b7fd7967f794c8d886e37178468e83ddf.
+Checksum SHA512 is 9f68ba218a7ebdb915fda5105213d119a34af28c11a0ef1d2f54dbe7a1f46b753f54036ca7ce42169a3d333385a2378b6252fee4c62200b4d4afd9becca9e2d8.
+Checksum RipeMD160 is 59bb4befcac865b7f722b7459d2271819ba9fd47.
+Checksum BLAKE2B is 47b1b359802547939f6c6d49ad580f5f52fae40eea59ff4ed41f8d6d9feab5bea74209085f587cf86b1150faa628d63807ac6599c69a30d959c6a28341549dd2.
+Calcul des cheksums du fichier : .\binDMC\Debug\Lesson09.exe.
+Checksum CRC32  is 25ad0ba7.
+Checksum MD5 is 42ec5156a9fb5e863e0c2a38f7b40463.
+Checksum SHA256 is 797f9e2ae509e12f0eac4c8826deaaa9fec9ec2223872f05f2daa47cd0e80335.
+Checksum SHA512 is 589784e7d287fbc8f01e4d4f76321acefb067784f36424fb1791e4e56e66585fe8820e50ca5615b6185b677f85a880341df2eb6c4c258cdfaab4b18bae52dc38.
+Checksum RipeMD160 is 3d55e9a7ff237c6c1adc58ed570844ce28f0e43c.
+Checksum BLAKE2B is 501d63a1c745edad37ffafda2bd9ede46e024698aac697c3d01dcd77dc99395d169f71370c6c0aa0625695b884693465728fde0fe9cffb10f3adad2f7d661346.
+Calcul des cheksums du fichier : .\binDMC\Release\Lesson09.exe.
+Checksum CRC32  is 5e22c8d7.
+Checksum MD5 is 05f719f8b1db0251e2ae43b8eae3a5d1.
+Checksum SHA256 is 2d58dd1fcf2f30af5ae83cbfbd01c1b1f2bbf9a93ba9ae3ba88e167a36a31d3d.
+Checksum SHA512 is 5deb8a35da05f9e95cc84ea218afb1dc6b1ecfa57291cf8b29bdab8715a6312ed715ea59ec2a0f8d05bc5e1fe34640e735677d0b94169f722017f40c7855681b.
+Checksum RipeMD160 is 79a6ee37426750362e6f07a4ea4f13c1def5283a.
+Checksum BLAKE2B is 4c7328e58711ff2953176d67c619e51cf274b72e02fe7755a29a31abb376bc23f46bd5db1b5647cf90c426ef068c9e438ff7704c03d4e5e39516620b5c74a92d.
+Calcul des cheksums du fichier : .\binlcc32\Debug\Lesson09.exe.
+Checksum CRC32  is f425b225.
+Checksum MD5 is a4d8bbb703b652bb98f24d24f38e999b.
+Checksum SHA256 is 6d53941236ea6d3649be3aa7657048d3a69f9a987c027bf177dd47e25a433f47.
+Checksum SHA512 is 5eea98ad4f8449b69350eccce250cc00012c527baa697891862cc551ddda472030f7ed75ae52d6ce74a70417f3bd69a4c6e3888d6eddca7f85a5286b289a5c42.
+Checksum RipeMD160 is f9ca6d6532b208c42baeec14847964a2ec891c04.
+Checksum BLAKE2B is e04573e3016d6720c0e4cd2b848b8545d3d94925bb0616246e8b379b20aa629f81741090a62237250fd43e6bad2021eb46aa11485964cf0b7c9ce9600cb737ad.
+Calcul des cheksums du fichier : .\binlcc32\Release\Lesson09.exe.
+Checksum CRC32  is d6974737.
+Checksum MD5 is 3ccc43d7aa7ce3ec2458a685b4f02c55.
+Checksum SHA256 is e13fa3a2cf3f9bbe1e7715ec54fece2769ff7014542607cc9cf70cdec8d17c4c.
+Checksum SHA512 is eb32a3d202d008bfed56b6fcd71273bdbdc41f2a2e49facf623fa6def045b99dc75ea3298ad76b24ffad7be047fc77cd18c35010d1e856c60082c3297f0aecd2.
+Checksum RipeMD160 is 9c3e22d762c226eb071d95ef587b6c0513ee6527.
+Checksum BLAKE2B is 014f23b8e0a65bf0594690ebd9901cdd8bd7376516c26c8012f648c9d10daaa7508e011e97683ef6695c05a5a851ceb6339a24371e2d184939c5abbbdc5c0a85.
+Calcul des cheksums du fichier : .\binlcc64\Debug\Lesson09.exe.
+Checksum CRC32  is 3701cd98.
+Checksum MD5 is 3f354de4e41d53630de8cbf7a8eb5aa1.
+Checksum SHA256 is 69d25f72cb571b2b4f70bc5cd4f1d5686f17fb0028a0c7806dc969b5dcc68f3c.
+Checksum SHA512 is ac6af5333c0bd46f6cdc8f4d2b0c5de427e96038c429bb322541fbc7d3b7327507b9b376c2c5fac40a1b2197e0c9b783c504b51b5b1a335b2ded172b00f3a6fa.
+Checksum RipeMD160 is ac37cae08a7dbecb67947d7ed5021fbb486b394d.
+Checksum BLAKE2B is c15e55f7c5fdaf2e60d5281ebc00d4cdeced10cac8d2e545d7108f8dfec8f1b38d8e5c8ab39317cd5fe3b72d514350836ea39db937a9c2f3bee9f8643b83ea09.
+Calcul des cheksums du fichier : .\binlcc64\Release\Lesson09.exe.
+Checksum CRC32  is f66a807c.
+Checksum MD5 is 0c7e028b78b499560cad57c7f7152052.
+Checksum SHA256 is df2d51efed272491bac05dc7911f08db6bb8c2bd746b304b0867c7dd6a40d246.
+Checksum SHA512 is f61b4ca65da680d7a0f44a62770daa5de0fd66f625ba992e5345cb38d1afa6c4f6354d33df785bf7a537d42f967843e9642c21b0249d73f888d8f42840bd040b.
+Checksum RipeMD160 is 1d451078fcda9ab7cc2b07081e46f2559980492f.
+Checksum BLAKE2B is 5db5f16e392a14754a460f4f098b3a61449a373f11402d1f7a745cd0b079cf0631f5ebf62cf7ffb9d16b6be8a24520b02f66a404e3bc01727e6523d08e9983bb.
+Calcul des cheksums du fichier : .\binMingw32of\Debug\Lesson09.exe.
+Checksum CRC32  is 90fa156e.
+Checksum MD5 is 587cb8019faa8205c10f444604ef7577.
+Checksum SHA256 is 4fd8be6ddaa22772f8b5a87185e0a0149140f03fc066ad9cd5df8792d977c626.
+Checksum SHA512 is fde1ef5bcb42d0dfff35206926bf31cd8478e93a7b86b3dbb427432dd0aab5276cbea77313d001e43216a218c5ad2c3f5fc7c5c491077f807743053edbeaa9c6.
+Checksum RipeMD160 is fdc9ce295256ca3fb3fb13c5641a6861a1867ade.
+Checksum BLAKE2B is 831e4facaee640cb85c7a89332eb57436c35d9cf700f729273b28d0036a819c02fba6e35b9bc53bf4bbb2dd794cc60ebab85b7776796ed41fcd9cba4abb93287.
+Calcul des cheksums du fichier : .\binMingw32of\Release\Lesson09.exe.
+Checksum CRC32  is 152bcabb.
+Checksum MD5 is 738b03ebe877464eacd350cd8fbd478a.
+Checksum SHA256 is 608b2cdb04fa81037ada4f096c9a3ed9194035baea0dea7558b30444aaaf7ba0.
+Checksum SHA512 is e9554d73ebf08beb47ee3e23818fc5a41d7ec0c372def99e85250f516fdaa1820c5890046a68acbd122ef198fe782a4ed0501093a316bb805ded4ca470953742.
+Checksum RipeMD160 is f0a8bd78731a48b2a3897315f8105827ccff82ae.
+Checksum BLAKE2B is 95d77c198ce2428d925a8c49b546097f488e97d819e0d88deb6ff5597248ad11a129569a54e1001a85c8d89a5a207a772db832108bbbbda73595c3ef113e8442.
+Calcul des cheksums du fichier : .\binMingw32wl\Debug\Lesson09.exe.
+Checksum CRC32  is 28458cb9.
+Checksum MD5 is 58d240afe6712660dc7c180f2d223dd5.
+Checksum SHA256 is 261931e7a5e37738e162c1595970aaba3773c0db01ec7c5f6037205c66355ca3.
+Checksum SHA512 is c12d5316747b8e18a81021a3cdde39d67d3e0069440dc7e70969f472c93761b8b9ba6414bef5662dbc62bc89e4250526d0edd5b7229bc32e513f10a3e12f2e92.
+Checksum RipeMD160 is c38e9cad43cb21ea89e58dd202ef798986ab7db6.
+Checksum BLAKE2B is acd1e640b624029d337e00f1cf924c9cc1fa097d502ddd46728adf749ead1d7842008b7176459d78c7c8a542e43d3f5d4cbad30b98ac8947224795779e8170a7.
+Calcul des cheksums du fichier : .\binMingw32wl\Release\Lesson09.exe.
+Checksum CRC32  is bcf705c6.
+Checksum MD5 is be64854eb530d9415fe2b7b16c88c633.
+Checksum SHA256 is 8345d55a00a2d55e1bcd580c082fa167a183a71041e1dfa4f3b2ed7f855da369.
+Checksum SHA512 is 1531dd495c5d588db26f47761f8ae1795f1354ce61db4ca2e9cb194e75c6a24d7e83117bb04195b2761d970a0b9283ce7fd6834720bd0305dbddd37682fce1e0.
+Checksum RipeMD160 is 2f5fecca7478da6c90106f6d16725057ac8e314e.
+Checksum BLAKE2B is 51f069616e59237322fde15b17ce2f2073c7c20f5e1a309e5b358eac8614d2b5526ed05ed08cb6de613d04c7d7c0905477f63ae81b9aeb8dd4666b324156e6bb.
+Calcul des cheksums du fichier : .\binMingw64wl\Debug\Lesson09.exe.
+Checksum CRC32  is ae5affae.
+Checksum MD5 is 289fcec02132b5f4560ebf39f5c2d9d0.
+Checksum SHA256 is a886906a781c9830729494821cc367cfd6b79889e6d8e11a7847dd962f4f782b.
+Checksum SHA512 is 36b63ad04ac1f91daa181bb9754b6a339ee838ba4badd02d6f023a3ed851ba1d54f6e7496152de7f82e9cd09fc537d812481c3be701b47fa1896675c72639740.
+Checksum RipeMD160 is 1463c12e3b9415be78895e583cdff87aea3f7608.
+Checksum BLAKE2B is 01b48a75c761f7df4d6201af970b6619509872c54802b9af92cc530fd1ed708602fd6905cdcd285a3c8f043ddc60760d9254c352a950949821feaca943fc3c55.
+Calcul des cheksums du fichier : .\binMingw64wl\Release\Lesson09.exe.
+Checksum CRC32  is 73181272.
+Checksum MD5 is f396fbded0ccd5eda19434ef8c4695dd.
+Checksum SHA256 is 3f1dfcd8031d534c0326bf92a17eea215f19c22b08b47f24f13cd45cd6540097.
+Checksum SHA512 is c6ae1b73a4ef908983b1ee809c4068984936fa6a44932d29fa7525c2eeec5ba6c21cdf80ae97f06abb1d1fe469e6b56673c71383f87f33be09be40a43e6f4565.
+Checksum RipeMD160 is 6401914e27e9894eebe6cf5ed4636e5a9d12cbe3.
+Checksum BLAKE2B is 92adbb629e17f642e53b4c6c8368329bcb0f251ec1b644a2f98ba5bfefd71c1bf863b6b08227f2673a4a708e52215b3d62ec5f06403826a6cffd3a2340822b07.
+Calcul des cheksums du fichier : .\binMingw64CB\Debug\Lesson09.exe.
+Checksum CRC32  is 7ba33feb.
+Checksum MD5 is bc27ed7dc7747ac22c16fb3f8caad7c4.
+Checksum SHA256 is 62c8815432eb228f5af81fb23cd7745b05511eac2b38712cdb0d1953a896d8c2.
+Checksum SHA512 is 5c2983f45c3da752a2945b2652b6e29419e0bdd134e11eeda5a1eac584d0cb3b60ca4998a913d4c0b645ebaaa2a38023ce835375fb49fa7c6ad989b2c7cad2aa.
+Checksum RipeMD160 is 684821b0d2b1baf9313d69667d7d4845b42046d3.
+Checksum BLAKE2B is 0df3b1c603ea87e5de1ef52c13ac437c87900100b483dfeed96e73f1fe03bbcd91f8c42c11e546b9e38a247f5cd7d85497bcdef76759a522c41717421c300e19.
+Calcul des cheksums du fichier : .\binMingw64CB\Release\Lesson09.exe.
+Checksum CRC32  is 18c60e8d.
+Checksum MD5 is f98213559d66d63649effb24919942e3.
+Checksum SHA256 is f485984b63c6258f6cc26efaeeeaa66041e29c2f348cc3bad19aad20ac8f0ca9.
+Checksum SHA512 is 5c7a15c2de5aa18501684479f82814b816a093937063aa796d1b70ec88988ac3c79468625a3e466896efa4f4036ada6a6b29d9373c1e828ca8e9d523bc6531ee.
+Checksum RipeMD160 is 1ef4b78eaf94be425843279123adc4994c4d3e54.
+Checksum BLAKE2B is 0bfd7c6491bb43a1b1162672bf3f1ca5f72c96ed7d4ca29aef779231014d9a79e6ce30fc7caffef0e463df3539a0aea2fae9a694c9b391b8ff5ec20d4e67fc8b.
+Calcul des cheksums du fichier : .\binMSYS2W32\Debug\Lesson09.exe.
+Checksum CRC32  is 78bd25f6.
+Checksum MD5 is 475c5fa02eea1c8ba1dc58e37e61997a.
+Checksum SHA256 is 788ab5b1ed184a5f4d59eae8b0b2d759c181fc075d5205bdcc37b77ff9427886.
+Checksum SHA512 is 344e19e4da12573501cec0f83909a6a8387eeed9b08fbd207a4686db6c5285cacb14ef520e3672f6840985e276291fe500f742374d3548f5f8dee6a97b53c012.
+Checksum RipeMD160 is f6351686e09410f66f95a28d300f047d1f20beed.
+Checksum BLAKE2B is 3f632c7477cacf9845d909f014b61940820bd97c8459089bfc62ad528d521947822d667394a5ab39f0e61e765a5df278d895f09c4907201116055cfdba0bc008.
+Calcul des cheksums du fichier : .\binMSYS2W32\Release\Lesson09.exe.
+Checksum CRC32  is f2efffe4.
+Checksum MD5 is b2e5fa78a7b26067edc5569f3d163bc7.
+Checksum SHA256 is f082ace36c1a22874be207b150cd7b3aaae3ef42ecaba6a9adf97874e4710e12.
+Checksum SHA512 is 1b8c6e19eba2d6b728b392ac0169d6cde0c436e4e2d2edc70dc0e5fce99c0374c06480d66af645f4fefa352feb536caca091361694bf120dc0781ad0c8613dbf.
+Checksum RipeMD160 is b1a937a62b7501e6cfd03e76e5ffb37f68f8a462.
+Checksum BLAKE2B is d3bd2a8a484a5ea2c4c3728ac50e5a005ac8db418a3c21ebdb07a26f6e08f2e6ce9d1321b4fb921f48d9ab979d84a7419b61ce03256378aada389569da690794.
+Calcul des cheksums du fichier : .\binMSYS2W64\Debug\Lesson09.exe.
+Checksum CRC32  is 17f63a9a.
+Checksum MD5 is d8844f7bd72f196b629eb5cbb865dd81.
+Checksum SHA256 is eb753e7e904012c5641c88db9bb6e4298a9333aa24e34a8ae2718ba67dc9c27c.
+Checksum SHA512 is 51421ebefe728d920263e17596032a0405cb5f9e42e7cb307a36e96be2ad4920b122afe8d4b3d73eb47d86c4c8e880487d103d18cc1289d647f7cb221874ca09.
+Checksum RipeMD160 is baddd09fc87ea8bfab7b8526bd1c412e0d02bdac.
+Checksum BLAKE2B is 9aab9bb6ad5112ab118cbe077979bd813ec49dc4406c521420036c16166d7aa04bf9d7204f1797c80fe9c9b5c88bd2fc9f582eaa715d1e32ff436b8710ec09fb.
+Calcul des cheksums du fichier : .\binMSYS2W64\Release\Lesson09.exe.
+Checksum CRC32  is ba75102a.
+Checksum MD5 is 2df0a4ed036519973c775773a8502fd9.
+Checksum SHA256 is ca5188a7e60baddad6be73d34b1f1d865adbdc6755c51b7e1ec71ba91f5e41ab.
+Checksum SHA512 is ed2fc16f1cd742e0b13b92529a0a3558db09dcc4b4c7b3b305043630c4fe2ef406e3512e28b56c4c08ebe2a3b4c719f56088c13e9ca98662a3d950d1edd1e03c.
+Checksum RipeMD160 is 0ee7a0fedbe8c49eaed4cb7997f562427a984502.
+Checksum BLAKE2B is 0b14b174c7612945281be54897fab90733f8a1a9b07a07a4c03d6297dc8c04271e73ad4dd640572eb6a3c3b08c664230a23c041924ad6a92ea6595f5e721a0e9.
+Calcul des cheksums du fichier : .\binOW32\Debug\Lesson09.exe.
+Checksum CRC32  is f6429a45.
+Checksum MD5 is a86e881850abe66985f0a81d768ba6fd.
+Checksum SHA256 is b1e7f681161286db07e45ec858f0517ce3907640f646309f53666b977a2780b7.
+Checksum SHA512 is ca8b27595143340a49f9b37987859c67fe440832b068238461717a0723cd13fd5ecdec22979b83154186d2840625c9c88c13d88680c05db8739952335f3a991c.
+Checksum RipeMD160 is 4638828b80a2fec86da2776ed694084443d0f212.
+Checksum BLAKE2B is 86140341a791d05be7c95db8fbfa513213fd60308e4e129c068bc1bb69941b8b6365808d061e3b7b6658142df758749ce0f6b89184400fb52a6186c10a9562f0.
+Calcul des cheksums du fichier : .\binOW32\Release\Lesson09.exe.
+Checksum CRC32  is 6bbd4b44.
+Checksum MD5 is cfb7b66d8ae7c187335e68fd0b37155b.
+Checksum SHA256 is e63e1d32bc3d53adf5addc9eec6e685667565e8b583a70a0ac20f2a7e0a99998.
+Checksum SHA512 is 35d4881551812209e030ee4c4f2c2f75d346e14148684b2bf184140a204d49e4fb1f92b7fbbf687ab3fd5a33cee36863053689e0e99d0b53b702dc7a32d9b1e0.
+Checksum RipeMD160 is d475ca8d4bd485dddbaa06f41726fe0215c910bb.
+Checksum BLAKE2B is 01422a24d8b6f81e9b0d90b03fb74fa345c24784ef217323d6b6707245feb7f4334aab7d70ff8b35817128e5dd5400724578861ac8bf8b8dc82d1ddde760d955.
+Calcul des cheksums du fichier : .\binOW64\Debug\Lesson09.exe.
+Checksum CRC32  is 29f15218.
+Checksum MD5 is 4a7fa9a0039c36062eab5e236b41a75e.
+Checksum SHA256 is a0c1a1f37ef6912a268ffd4978f377a68550a78204fb093cbe7c7e6bf93bd049.
+Checksum SHA512 is 13cd3b7c3fbf4bb5d0b3be5c23b7c7dcbce174bfdd72b3566796fce7dee8648898413be6a1c6424160f37b9da9f53fc33996a6077d54e9af7217fdb850380340.
+Checksum RipeMD160 is bea13d76af6b8211ad2612149647a410a57fe9ad.
+Checksum BLAKE2B is 476822066f246d71a69be3bc683a3ea1ca8205985e55631734ebdd9131e1aaf209034c5e6b269a2a2fb8f3df8413953c508af85cad9231dfa5ff2abe1b95fee3.
+Calcul des cheksums du fichier : .\binOW64\Release\Lesson09.exe.
+Checksum CRC32  is b538bc18.
+Checksum MD5 is 1158e3f8c8f88a2eee29cb8f44d79baa.
+Checksum SHA256 is 76ba328a3746b36ce3be026ead79c5cd51f40ca0abb5285247458af86d9d0200.
+Checksum SHA512 is 52b9653bdec12e37bf4471e15b457f6b75a984c9212a6bea709c4efaa5398ba97ba11ef6a9eb303f9155ecc1582cd822fca890fd435fe3af231241d946341ecd.
+Checksum RipeMD160 is cccc6950528276c79081a3613c71e3bc2bc1be2e.
+Checksum BLAKE2B is e6e014bbbf0c78dd84ae7b1bc7a672e1345e48b70b7593313ebc0c439a99f9588def2cc6c33658419c068e76ce994a5fd8be65db53276c8681c6183ac23a4ae8.
+Calcul des cheksums du fichier : .\binPELLESC32\Debug\Lesson09.exe.
+Checksum CRC32  is 344a160.
+Checksum MD5 is 7769324056301e353a8f76ccd0d59ba6.
+Checksum SHA256 is b0ed8e26744f2a37c7d1159f92280c36de3d3151d9ed5df9b32ec245f1237cf7.
+Checksum SHA512 is c0a7fe0e67fbe86ac6781d8ebf0709da91bc7334acfef62b16e925e7367df5ea8516f2437eb870071998b0093a3927b4d56a0a7c719aa910d0ad326c5414a0cc.
+Checksum RipeMD160 is 52e64373d838f4c88dfd8ff47a27647cf31da0b8.
+Checksum BLAKE2B is 107b92e564a1069066b662fc2214e503d5e0108093b543febccd5bb7f4c50f047a71638a6f8fbc6a68251998e430bd14c8526b0de5337f7187e354da21cd27de.
+Calcul des cheksums du fichier : .\binPELLESC32\Release\Lesson09.exe.
+Checksum CRC32  is a07b859c.
+Checksum MD5 is e6649c08e87f2239829fdd2a424c4258.
+Checksum SHA256 is a1cb24ad7e7cf86b79dcbfc46a2ebc70c619a672ccccc18d78df7accc36a234b.
+Checksum SHA512 is f4aac935af45e231769b9b8576ccac223c55b8cf90537bfd0cd574abf1219ae003f213e9faeb43556f1a4d2f223d62e7b0e14e2e3c570efbca0b7157a22182b7.
+Checksum RipeMD160 is d06d030daa89b801df13ff7d3f8b8869f6e6dafa.
+Checksum BLAKE2B is 876551cbb72071452545315f03dadb68e441e7f22d74c74c22d751d394aae853070830673e56c9c9f8f16aa5bb33eb25bdf12d181bf2a4b2285f728cf631e114.
+Calcul des cheksums du fichier : .\binPELLESC64\Debug\Lesson09.exe.
+Checksum CRC32  is 2f8a0263.
+Checksum MD5 is 8a779508288745911accad3bcc2b0f5b.
+Checksum SHA256 is a1e3dc1e67f0eb44704958c875c4256c73b2ea65d439df1ce87fe06ce6273f6c.
+Checksum SHA512 is 59fd36e872d9d4d63ad357fab085ca4ff357986749fbc64e03f0af3bafa858e74c5df66a2bd831d6ccbe880c6330cdde057c4a58a66c37d83c804d393470e4e7.
+Checksum RipeMD160 is d3c8ec997d24590ad31c232739cc6551007452d0.
+Checksum BLAKE2B is 3bea88e2da3b786c8a6a2dabe1be923a8dbcead1c12085bd9527eebc7b393b91825fac42a61de82cba2c860bdc5cb9a04fb46f83e40abbf8bbd52c6a3301b3a7.
+Calcul des cheksums du fichier : .\binPELLESC64\Release\Lesson09.exe.
+Checksum CRC32  is 7ac0761a.
+Checksum MD5 is ab4611924502f8f01c6fdfea42fce1a2.
+Checksum SHA256 is ece1fed0fa0389395cb2fe441380dbbba8d1ddab000ed1c7f0bc06432f36323d.
+Checksum SHA512 is 66b5dacbacce6afbffe7633e7ac942bf157c34f155c7fa8596a4e2b35a480e77f3445a7ca82d17d16c0bf49a971904cea58479483f77426dbc9e42fd54eb6461.
+Checksum RipeMD160 is d41cb1230afc008939067dbcef6f83b46d5a1385.
+Checksum BLAKE2B is cfc3fee29c116f8db6b7dc4731dbe7c0323974ff83fcddae23363e8e08f226ec6fe3474025bd2bcc3c95d241cbd1c4b97aacf5e27239ea41fcce1821f17be763.
+Calcul des cheksums du fichier : .\binTDMW32\Debug\Lesson09.exe.
+Checksum CRC32  is 5c8dc134.
+Checksum MD5 is 3c5d74ee35189a4172c93b63067cc3cd.
+Checksum SHA256 is f885ce5111b0b9ef85bf3d5aabf0d86e826601e2033fe361dcaba73de2236c0d.
+Checksum SHA512 is 178522b2644322597f878a58a6ed3db7118599da0093f4a358fda337ad3486f59f78908f10e6f9221661c33f04014352f19dfcd1698282f8689dcdc87048c105.
+Checksum RipeMD160 is 1c831a06c0ac4cb88656c4777da57068b672dac0.
+Checksum BLAKE2B is 25fb7cd8f0bca3ee4825f12a398a8cab2cf25df68082f5a9f425d4ab30b91b742b50fe6108a9225bb97d8df25f778dc0b72e9991a9549ac93de75c962347b871.
+Calcul des cheksums du fichier : .\binTDMW32\Release\Lesson09.exe.
+Checksum CRC32  is 5736fd47.
+Checksum MD5 is 7bbebc9dcfbfd502ac549fe887ac209a.
+Checksum SHA256 is a93b426a855816cb817de7856ed603c2e93aedd1efbc7f962e5998eb9f35e413.
+Checksum SHA512 is 101b8d1bac573a6eea671d28723b53b259ac31bb3c6071cacf4b9588a0114216ff029977363db4eb3147e7b5fb103dd5424a63e9915efe8c9c12c9c4f9d830fb.
+Checksum RipeMD160 is 12f007c26dd8ab2bc4c9f4bf34dadb5b1d1f3ede.
+Checksum BLAKE2B is 3912e2acab43f5f598a80d8b1ee23332bab5154fbead2a1d54f828bc26f179fa4afc26f7427d4a9ec387dbdece6e35e636b229d26258325c5d6883b43b6f7f65.
+Calcul des cheksums du fichier : .\binTDMW64\Debug\Lesson09.exe.
+Checksum CRC32  is 9804a5cc.
+Checksum MD5 is 990e9419fb19c24bbf275108ae744451.
+Checksum SHA256 is 916d640a853356d8537a861dd437e52256b92fed1996e998c826423f5edd6877.
+Checksum SHA512 is 025c32bcb99b453b65b4c4dba359e080db7d08111fe638e2495c795e6fc574763a35cc1dbba257cb6926c978a633526c3c5d129886a04af0ea8aa4dba20b5435.
+Checksum RipeMD160 is 0bc3f68c32e959dec0c350387a5ac9472be754a9.
+Checksum BLAKE2B is 1f40c7c6709c244f0c4e22caab1741e3cf613279ebb668e9d45699d4c400d9484b5f2ca46ea72cb7cf750303a7ac4c9cfab776043a87c9a81618a970639aa9c1.
+Calcul des cheksums du fichier : .\binTDMW64\Release\Lesson09.exe.
+Checksum CRC32  is 9a29ab67.
+Checksum MD5 is 3aeb77bdc00bbf65d490bbe4007b461e.
+Checksum SHA256 is 4549e66c0538d17ea79b17e2753f4e9cc1fbdd6b886ec5b2b5ed8a59e2ed75fa.
+Checksum SHA512 is ce23366d89c3751700be7cf63dfc37b90e8fd9a11363da0d48661c6f39b79cb9ce079bea824dedb4027d3d9086c1923afecb6c7313b0a8083f0368820b0c20e8.
+Checksum RipeMD160 is aa470f367e12fc0d20f167933f7c4485873ba6f7.
+Checksum BLAKE2B is df38c6b1a953a13f8dd0d9e0b3515bfd90e0dfe97bc2311fec6516a7922974a3cc0ffbbf9b3930b8e19c988c86d085426318f676a9a3c97c9a2d4ab5f201abce.
+Calcul des cheksums du fichier : .\binVS2022X32\Debug\Lesson09.exe.
+Checksum CRC32  is 69f59146.
+Checksum MD5 is 6b4a0caf3916b0ef91b8ff307db83e89.
+Checksum SHA256 is 53f308896ce44b38e5268e0d2d51b9e23912fdd0e1948897b409cf13495f01b6.
+Checksum SHA512 is e6045bd47d8f6463e1dfd747e93d8810e1d445e38a7f1099953a9eb96ce930d5753709a81f1c5c0815435f56a6fb534da356b43526a3bd38df805d986f72d8e3.
+Checksum RipeMD160 is ac0e1f0fa69b7956ede60f08fab172f27cb57991.
+Checksum BLAKE2B is 5051a999d873c086de91307a711aa7d7b1b41f980f7fbd5e69bfefc9e8dacb57146ac36532bf633c9586c1a35f97c9effd65420073c2ef489876aa1828d5a8cb.
+Calcul des cheksums du fichier : .\binVS2022X32\Release\Lesson09.exe.
+Checksum CRC32  is 1ae5f603.
+Checksum MD5 is cf5dfde4989e4b19c9c8ba12519e7d95.
+Checksum SHA256 is e31a0ef7f896cc5934d0f787ddca2d2c40ad8e426f0409851003a88a26a030b5.
+Checksum SHA512 is 8fca095e91f4f56900224dd1794a971a926f54a6299d16e157900af79529f8a58ce7a5ef692057ee69c5d5562533fd897dd891d73f168379ca7584911bd9a263.
+Checksum RipeMD160 is c56724bc52571bd713f03c647d01b00eeb9519a3.
+Checksum BLAKE2B is 1d57ea1874df05defcb172573e2de00585b2073f9214c1b500d120d2a601f098b405825f9f04676bb068088291431960279fb0819ff0f2f2081ab1dc6f2ff12d.
+Calcul des cheksums du fichier : .\binVS2022X64\Debug\Lesson09.exe.
+Checksum CRC32  is f05668fb.
+Checksum MD5 is ff5dc2ae4dd6ef2b47cbbc50f59674dd.
+Checksum SHA256 is 06791176e472a32bdfe094555621c17214650e6991a7a94aa7c183ea09d1a2cb.
+Checksum SHA512 is dcdf8292282072b7fab6264b422a00dbd8cf40848a898cfcb78b32135ef4621cea386b337917895f581d57a75e5b21fa658770377fc3bd68b040c23c332743ca.
+Checksum RipeMD160 is 435f21541bdb9ad04c8468d7389c03178f881941.
+Checksum BLAKE2B is 2711a2b2518cf7fc10fae2c71b37db41e25350c4f9628c747250aa7561cf6f9c7d154f57d605abb8f23c10c3482266b636e6bc9f6d83551e4285f36788df5608.
+Calcul des cheksums du fichier : .\binVS2022X64\Release\Lesson09.exe.
+Checksum CRC32  is 2e70a09f.
+Checksum MD5 is 06b12f6de67d2d31f3fdadea2f63a919.
+Checksum SHA256 is c2bd297e6bc118c499d411c5307aab073f581bd5829dba81583296dc8cfaef3b.
+Checksum SHA512 is 9ae4dcc394b82652958ed37613445da9390dbc1b65189d48829e004057876f0c272216d453342497b44931e8e2bd5c2a042cd54a004a754488c17851d4c4a40d.
+Checksum RipeMD160 is 9c860c89d82d1db3f67a89172d42ebf18a043ce1.
+Checksum BLAKE2B is 8ed19d1f3e5f93e817b5fe82a6ee0110ddab2f4c372d5ed8269c0c06ea176fec1e896f0dc7b13c6ed07af4b86e801ec541f774f42b3ab665091ae76752682537.
+
+C:\src\OpenGL\NeHe_Lesson09-master>set mydate=14/02/2023 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set mytime=17:39:28,26 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set DAY=14 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set MONTH=02 
+
+C:\src\OpenGL\NeHe_Lesson09-master>set YEAR=2023 
+
+C:\src\OpenGL\NeHe_Lesson09-master>echo End of generate_all_with_command_files.bat, current time is 14/02/2023:17:39:28,26 
+End of generate_all_with_command_files.bat, current time is 14/02/2023:17:39:28,26
+
+C:\src\OpenGL\NeHe_Lesson09-master>"C:\Program Files\7-Zip\7z" a Lesson09_2023-02-14_src.7z src\*.* res\*.* data\*.* build.cmake\* build.batch\* *.bat *.txt *.html *.md doxygen\* doc\* *.cbp *.workspace -x!*.bak README makefile -mhe -p"Lesson09_tde@03!" 
+
+7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
+
+Scanning the drive:
+493 folders, 1989 files, 23052741 bytes (22 MiB)
+
+Creating archive: Lesson09_2023-02-14_src.7z
+
+Add new data to archive: 493 folders, 1989 files, 23052741 bytes (22 MiB)
+
+
+Files read from disk: 1972
+Archive size: 1692611 bytes (1653 KiB)
+
+WARNINGS for files:
+
+generate_all_with_command_files.txt : Le processus ne peut pas acc‚der au fichier car ce fichier est utilis‚ par un autre processus.
+----------------
+WARNING: Cannot open 1 file
+
+C:\src\OpenGL\NeHe_Lesson09-master>"C:\Program Files\7-Zip\7z" a -ttar Lesson09-2023-02_14_all.tar * -x!*.7z x!*.bak  
+
+7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
+
+Scanning the drive:
+721 folders, 2609 files, 57626993 bytes (55 MiB)
+
+Creating archive: Lesson09-2023-02_14_all.tar
+
+Add new data to archive: 721 folders, 2609 files, 57626993 bytes (55 MiB)
+
+
+Files read from disk: 3329
+Archive size: 60087296 bytes (58 MiB)
+
+WARNINGS for files:
+
+generate_all_with_command_files.txt : Le processus ne peut pas acc‚der au fichier car ce fichier est utilis‚ par un autre processus.
+----------------
+WARNING: Cannot open 1 file
+
+C:\src\OpenGL\NeHe_Lesson09-master>"C:\Program Files\7-Zip\7z" a Lesson09_2023-02-14_all.7z *.tar -mhe -p"Lesson09_tde@03!" 
+
+7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
+
+Scanning the drive:
+1 file, 60087296 bytes (58 MiB)
+
+Creating archive: Lesson09_2023-02-14_all.7z
+
+Add new data to archive: 1 file, 60087296 bytes (58 MiB)
+
+
+Files read from disk: 1
+Archive size: 5056435 bytes (4938 KiB)
+Everything is Ok
+
+C:\src\OpenGL\NeHe_Lesson09-master>del /Q *.tar 
+
+C:\src\OpenGL\NeHe_Lesson09-master>GOTO FIN 
+
+C:\src\OpenGL\NeHe_Lesson09-master>cd C:\src\OpenGL\NeHe_Lesson09-master 

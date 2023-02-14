@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_structetoiles" xml:lang="fr">
+<title>Référence de la structure etoiles</title>
+<indexterm><primary>etoiles</primary></indexterm>
+<simplesect>
+    <title>Attributs publics    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="_structetoiles_1aa5ed7b89d7ab07cfce15f72651e3b085">r</link></para>
+</listitem>
+            <listitem><para>int <link linkend="_structetoiles_1a9d9131d3c2bb33313364849eebc9f161">g</link></para>
+</listitem>
+            <listitem><para>int <link linkend="_structetoiles_1a422e0a32ec253d7b2a825cd74bf4a2ba">b</link></para>
+</listitem>
+            <listitem><para>GLfloat <link linkend="_structetoiles_1a2604298e05ab2ca171460dc7ea8b6bc6">dist</link></para>
+</listitem>
+            <listitem><para>GLfloat <link linkend="_structetoiles_1a94d4cb779afda79655f383ced82b893f">angle</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Documentation des données membres</title>
+<anchor xml:id="_structetoiles_1a94d4cb779afda79655f383ced82b893f"/><section>
+    <title>angle</title>
+<indexterm><primary>angle</primary><secondary>etoiles</secondary></indexterm>
+<indexterm><primary>etoiles</primary><secondary>angle</secondary></indexterm>
+<para><computeroutput>GLfloat etoiles::angle</computeroutput></para></section>
+<anchor xml:id="_structetoiles_1a422e0a32ec253d7b2a825cd74bf4a2ba"/><section>
+    <title>b</title>
+<indexterm><primary>b</primary><secondary>etoiles</secondary></indexterm>
+<indexterm><primary>etoiles</primary><secondary>b</secondary></indexterm>
+<para><computeroutput>int etoiles::b</computeroutput></para></section>
+<anchor xml:id="_structetoiles_1a2604298e05ab2ca171460dc7ea8b6bc6"/><section>
+    <title>dist</title>
+<indexterm><primary>dist</primary><secondary>etoiles</secondary></indexterm>
+<indexterm><primary>etoiles</primary><secondary>dist</secondary></indexterm>
+<para><computeroutput>GLfloat etoiles::dist</computeroutput></para></section>
+<anchor xml:id="_structetoiles_1a9d9131d3c2bb33313364849eebc9f161"/><section>
+    <title>g</title>
+<indexterm><primary>g</primary><secondary>etoiles</secondary></indexterm>
+<indexterm><primary>etoiles</primary><secondary>g</secondary></indexterm>
+<para><computeroutput>int etoiles::g</computeroutput></para></section>
+<anchor xml:id="_structetoiles_1aa5ed7b89d7ab07cfce15f72651e3b085"/><section>
+    <title>r</title>
+<indexterm><primary>r</primary><secondary>etoiles</secondary></indexterm>
+<indexterm><primary>etoiles</primary><secondary>r</secondary></indexterm>
+<para><computeroutput>int etoiles::r</computeroutput></para></section>
+<para>
+La documentation de cette structure a été générée à partir du fichier suivant :</para>
+<link linkend="__lesson09_8c">Lesson09.c</link></section>
+</section>
